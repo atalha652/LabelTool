@@ -40,7 +40,7 @@ export class AnnotationTool extends Component {
     }
 
     goToWeb() {
-        window.location = 'http://iai-dlt.com/';
+        window.location = '';
     }
 
     render() {
