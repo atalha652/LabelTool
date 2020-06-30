@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/LabelTool/static/css/main.8d8c823f.chunk.css",
-    "main.js": "/LabelTool/static/js/main.7d24d742.chunk.js",
-    "main.js.map": "/LabelTool/static/js/main.7d24d742.chunk.js.map",
+    "main.js": "/LabelTool/static/js/main.fad2a560.chunk.js",
+    "main.js.map": "/LabelTool/static/js/main.fad2a560.chunk.js.map",
     "runtime-main.js": "/LabelTool/static/js/runtime-main.253f3f0a.js",
     "runtime-main.js.map": "/LabelTool/static/js/runtime-main.253f3f0a.js.map",
     "static/js/2.f7afa66a.chunk.js": "/LabelTool/static/js/2.f7afa66a.chunk.js",
     "static/js/2.f7afa66a.chunk.js.map": "/LabelTool/static/js/2.f7afa66a.chunk.js.map",
     "index.html": "/LabelTool/index.html",
-    "precache-manifest.2645ccabe51dea311712e639f121d21b.js": "/LabelTool/precache-manifest.2645ccabe51dea311712e639f121d21b.js",
+    "precache-manifest.497ab1375303026dba2f4185eebc8116.js": "/LabelTool/precache-manifest.497ab1375303026dba2f4185eebc8116.js",
     "service-worker.js": "/LabelTool/service-worker.js",
     "static/css/main.8d8c823f.chunk.css.map": "/LabelTool/static/css/main.8d8c823f.chunk.css.map",
     "static/js/2.f7afa66a.chunk.js.LICENSE.txt": "/LabelTool/static/js/2.f7afa66a.chunk.js.LICENSE.txt",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.253f3f0a.js",
     "static/js/2.f7afa66a.chunk.js",
     "static/css/main.8d8c823f.chunk.css",
-    "static/js/main.7d24d742.chunk.js"
+    "static/js/main.fad2a560.chunk.js"
   ]
 }

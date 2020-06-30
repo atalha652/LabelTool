@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3101415cced5ed5f78986ea8b932132d",
+    "revision": "59ed8825d87e2c4d8ebfd4598e153f0f",
     "url": "/LabelTool/index.html"
   },
   {
-    "revision": "886f0a9902295911814e",
+    "revision": "d42e8a1afc8393818856",
     "url": "/LabelTool/static/css/main.8d8c823f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LabelTool/static/js/2.f7afa66a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "886f0a9902295911814e",
-    "url": "/LabelTool/static/js/main.7d24d742.chunk.js"
+    "revision": "d42e8a1afc8393818856",
+    "url": "/LabelTool/static/js/main.fad2a560.chunk.js"
   },
   {
     "revision": "7c00ae9dfc4a214073ba",
