@@ -15,7 +15,7 @@
     "react-scripts": "3.4.1",
     "uikit-react": "^3.0.20"
   },
-  "homepage": "https://github.com/atalha652/LabelTool",
+  "homepage": "https://atalha652.github.io/LabelTool",
   "scripts": {
     "predeployed": "npm run build",
     "deploy": "gh-pages -d build",
