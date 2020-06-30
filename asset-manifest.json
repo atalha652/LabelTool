@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/LabelTool/static/css/main.8d8c823f.chunk.css",
+    "main.js": "/LabelTool/static/js/main.7d24d742.chunk.js",
+    "main.js.map": "/LabelTool/static/js/main.7d24d742.chunk.js.map",
+    "runtime-main.js": "/LabelTool/static/js/runtime-main.253f3f0a.js",
+    "runtime-main.js.map": "/LabelTool/static/js/runtime-main.253f3f0a.js.map",
+    "static/js/2.f7afa66a.chunk.js": "/LabelTool/static/js/2.f7afa66a.chunk.js",
+    "static/js/2.f7afa66a.chunk.js.map": "/LabelTool/static/js/2.f7afa66a.chunk.js.map",
+    "index.html": "/LabelTool/index.html",
+    "precache-manifest.2645ccabe51dea311712e639f121d21b.js": "/LabelTool/precache-manifest.2645ccabe51dea311712e639f121d21b.js",
+    "service-worker.js": "/LabelTool/service-worker.js",
+    "static/css/main.8d8c823f.chunk.css.map": "/LabelTool/static/css/main.8d8c823f.chunk.css.map",
+    "static/js/2.f7afa66a.chunk.js.LICENSE.txt": "/LabelTool/static/js/2.f7afa66a.chunk.js.LICENSE.txt",
+    "static/media/image0.jpg": "/LabelTool/static/media/image0.09facdd3.jpg",
+    "static/media/image1.jpg": "/LabelTool/static/media/image1.e325bde4.jpg",
+    "static/media/image2.jpg": "/LabelTool/static/media/image2.01e8001b.jpg",
+    "static/media/image3.jpeg": "/LabelTool/static/media/image3.39194024.jpeg",
+    "static/media/tool.png": "/LabelTool/static/media/tool.746aa767.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.253f3f0a.js",
+    "static/js/2.f7afa66a.chunk.js",
+    "static/css/main.8d8c823f.chunk.css",
+    "static/js/main.7d24d742.chunk.js"
+  ]
+}
