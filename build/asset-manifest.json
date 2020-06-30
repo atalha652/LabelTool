@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/atalha652/LabelTool/static/css/main.8d8c823f.chunk.css",
+    "main.js": "/atalha652/LabelTool/static/js/main.e476cd0c.chunk.js",
+    "main.js.map": "/atalha652/LabelTool/static/js/main.e476cd0c.chunk.js.map",
+    "runtime-main.js": "/atalha652/LabelTool/static/js/runtime-main.0bc388a8.js",
+    "runtime-main.js.map": "/atalha652/LabelTool/static/js/runtime-main.0bc388a8.js.map",
+    "static/js/2.2381354e.chunk.js": "/atalha652/LabelTool/static/js/2.2381354e.chunk.js",
+    "static/js/2.2381354e.chunk.js.map": "/atalha652/LabelTool/static/js/2.2381354e.chunk.js.map",
+    "index.html": "/atalha652/LabelTool/index.html",
+    "precache-manifest.860bb1201bd436a1bd2270678e78e38f.js": "/atalha652/LabelTool/precache-manifest.860bb1201bd436a1bd2270678e78e38f.js",
+    "service-worker.js": "/atalha652/LabelTool/service-worker.js",
+    "static/css/main.8d8c823f.chunk.css.map": "/atalha652/LabelTool/static/css/main.8d8c823f.chunk.css.map",
+    "static/js/2.2381354e.chunk.js.LICENSE.txt": "/atalha652/LabelTool/static/js/2.2381354e.chunk.js.LICENSE.txt",
+    "static/media/image0.jpg": "/atalha652/LabelTool/static/media/image0.09facdd3.jpg",
+    "static/media/image1.jpg": "/atalha652/LabelTool/static/media/image1.e325bde4.jpg",
+    "static/media/image2.jpg": "/atalha652/LabelTool/static/media/image2.01e8001b.jpg",
+    "static/media/image3.jpeg": "/atalha652/LabelTool/static/media/image3.39194024.jpeg",
+    "static/media/tool.png": "/atalha652/LabelTool/static/media/tool.746aa767.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bc388a8.js",
+    "static/js/2.2381354e.chunk.js",
+    "static/css/main.8d8c823f.chunk.css",
+    "static/js/main.e476cd0c.chunk.js"
+  ]
+}
